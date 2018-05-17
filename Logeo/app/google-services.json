@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "607539162064",
+    "firebase_url": "https://logeok-203820.firebaseio.com",
+    "project_id": "logeok-203820",
+    "storage_bucket": "logeok-203820.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607539162064:android:a29858a2678c8ecd",
+        "android_client_info": {
+          "package_name": "com.example.kathy.logeo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "607539162064-rsjf47q1ihuf2qtkqgic81i8pm7mhr7f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kathy.logeo",
+            "certificate_hash": "5a229071c1aa03437faab590da1b49e65b297a46"
+          }
+        },
+        {
+          "client_id": "607539162064-0hj3tptun53se31qtopl87ti0of3m1ec.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYKI-wEi3f6IRnNjfyS2QVlU8Rn5Icrv8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "607539162064-0hj3tptun53se31qtopl87ti0of3m1ec.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
